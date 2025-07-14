@@ -816,7 +816,7 @@ PlayerSettings:
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
-  webGLDecompressionFallback: 0
+  webGLDecompressionFallback: 1
   webGLInitialMemorySize: 32
   webGLMaximumMemorySize: 2048
   webGLMemoryGrowthMode: 2
@@ -921,6 +921,7 @@ PlayerSettings:
   vrEditorSettings: {}
   cloudServicesEnabled:
     UNet: 1
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -942,11 +943,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 8bbfa39b-17dd-4b21-a420-ccb1d33711d3
+  cloudProjectId: b944f5d9-cdcc-4fed-8970-da988d1a0f9e
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: WebGLInput
-  organizationId: kou-yeung
+  organizationId: hwk9120
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
