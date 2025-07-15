@@ -12,13 +12,9 @@ support UI Toolkit. (Experiment) (Support from Unity2022)
 
 # DEMO
 
-Build with Unity's WebGL Template ( Unity2023.2.2f1 )
+Build with Unity's WebGL Template ( Unity2022.3.63f1 LTS)
 
-[Default](https://kou-yeung.github.io/webgl_input_sample/default/index.html)
-
-[Minimal](https://kou-yeung.github.io/webgl_input_sample/minimal/index.html)
-
-[PWA](https://kou-yeung.github.io/webgl_input_sample/pwa/index.html)
+[Minimal](https://hyunwoo9120.github.io/WebGLInputDemoPage/)
 
 # How to use
 1.download [WebGLSupport.unitypackage](https://github.com/kou-yeung/WebGLInput/releases) and import to project
